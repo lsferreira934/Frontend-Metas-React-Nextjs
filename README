@@ -17,4 +17,4 @@ export default function MyApp({ Component, pageProps }) {
 return <Component {...pageProps} />;
 }
 "
-(v) Cria uma pasta static na raiz para receber o css e adicionar o importa no arquivo \_app.js
+(v) Cria uma pasta static na raiz para receber o css e adicionar o import no arquivo \_app.js
